@@ -1,7 +1,7 @@
 # The World of Game
 
 ## Description
-**The World of Game** is a collection of classic and popular games implemented in a single project. It includes **Tetris, Candy Crush, and Tic-Tac-Toe**. This project demonstrates game logic, graphics handling, and user interaction.
+**The World of Game** is a collection of timeless, classic and popular games implemented in a single project. It includes **Tetris, Candy Crush, and Tic-Tac-Toe**. This project demonstrates game logic, graphics handling, and user interaction.
 
 ## Games Included
 
